@@ -1,5 +1,10 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sriram Nitheesh</h1>
+<h3 align="center">Aspiring AI Engineer | Cybersecurity Enthusiast | Backend Developer</h3>
 
+<p align="center">
+Building intelligent systems, secure applications, and scalable backend architectures.
+</p>
 <!--
 **Nitheesh14125/Nitheesh14125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
