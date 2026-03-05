@@ -78,7 +78,7 @@ Building intelligent systems, secure applications, and scalable backend architec
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nitheesh14125/Nitheesh14125/output/dist/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Nitheesh14125/Nitheesh14125/output/github-contribution-grid-snake.svg" />
 </p>
 
 
