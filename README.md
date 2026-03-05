@@ -68,3 +68,12 @@ Building intelligent systems, secure applications, and scalable backend architec
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitheesh14125&theme=github_dark" />
 </p>
 
+## 📊 Language Usage
+
+<p align="center">
+
+<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitheesh14125&theme=github_dark" />
+
+<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nitheesh14125&theme=github_dark" />
+
+</p>
