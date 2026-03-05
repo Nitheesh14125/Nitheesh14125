@@ -49,8 +49,12 @@ Building intelligent systems, secure applications, and scalable backend architec
 </table>
 <h2>🛠 Tech Stack</h2>
 
-<p align="left">
+<h2>🛠 Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=python,java,html,fastapi,flask,mysql,linux,git,github,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,fastapi,flask,mysql,ubuntu,github,vscode" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="48"/>
 
 </p>
