@@ -53,7 +53,7 @@ Building intelligent systems, secure applications, and scalable backend architec
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,fastapi,flask,mysql,ubuntu,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,html,fastapi,mysql,ubuntu,github,vscode" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="48"/>
 
