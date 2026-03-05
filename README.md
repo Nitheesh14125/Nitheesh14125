@@ -47,3 +47,10 @@ Building intelligent systems, secure applications, and scalable backend architec
 
 </tr>
 </table>
+<h2>🛠 Tech Stack</h2>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,fastapi,flask,mysql,linux,git,github,vscode" />
+
+</p>
