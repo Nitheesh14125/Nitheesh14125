@@ -1,4 +1,4 @@
-## Hi 👋
+## 
 <h1 align="center">Hi 👋, I'm Sriram Nitheesh</h1>
 <h3 align="center">Aspiring AI Engineer | Cybersecurity Student | Backend Developer</h3>
 
