@@ -75,4 +75,10 @@ Building intelligent systems, secure applications, and scalable backend architec
 <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nitheesh14125&theme=tokyonight" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nitheesh14125/Nitheesh14125/output/github-contribution-grid-snake.svg" />
+</p>
+
 
