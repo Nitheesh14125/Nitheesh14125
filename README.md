@@ -12,32 +12,36 @@ Building intelligent systems, secure applications, and scalable backend architec
 
 <h2>👨‍💻 About Me</h2>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-🎓 <b>BTech CSE (Cyber Security)</b> student at Sri Venkateswara College of Engineering  
+<p>
 
-🧠 Passionate about <b>AI Engineering, Cybersecurity, and Scalable System Design</b>
+🎓 <b>BTech CSE (Cyber Security)</b> student at Sri Venkateswara College of Engineering <br><br>
 
-🛠 Building <b>backend systems and APIs using Python and FastAPI</b>
+🧠 Passionate about <b>AI Engineering, Cybersecurity, and Scalable System Design</b> <br><br>
 
-📚 Practicing <b>Data Structures & Algorithms</b> to strengthen problem-solving and algorithmic thinking
+🛠 Building <b>backend systems and APIs using Python and FastAPI</b> <br><br>
 
-🚀 Building projects in <b>AI systems, backend development, and system design</b>
+📚 Practicing <b>Data Structures & Algorithms</b> to strengthen problem-solving and algorithmic thinking <br><br>
 
-🧪 Exploring <b>real-world security problems and defensive security solutions</b>
+🚀 Building projects in <b>AI systems, backend development, and system design</b> <br><br>
 
-🎯 Achieved a <b>10/10 SGPA</b> and working to maintain consistent academic excellence
+🧪 Exploring <b>real-world security problems and defensive security solutions</b> <br><br>
+
+🎯 Achieved a <b>10/10 SGPA</b> and working to maintain consistent academic excellence <br><br>
 
 🥊 <b>State Champion Boxer (2022)</b>
 
+</p>
+
 </td>
 
-<td width="40%" align="center" valign="top">
+<td width="38%" align="center" valign="top">
 
-<img src="assets/final.jpg" width="320">
+<img src="assets/final.jpg" width="300">
 
 </td>
 
