@@ -12,10 +12,10 @@ Building intelligent systems, secure applications, and scalable backend architec
 
 <h2>👨‍💻 About Me</h2>
 
-<table style="border:none;border-collapse:collapse;width:100%;">
-<tr style="border:none;">
+<table border="0">
+<tr>
 
-<td width="60%" valign="top" style="border:none;padding-right:20px;">
+<td width="60%" valign="top">
 
 <ul>
 
@@ -39,11 +39,9 @@ Building intelligent systems, secure applications, and scalable backend architec
 
 </td>
 
-<td width="40%" align="center" valign="top" style="border:none;">
-<br>
-<br>
+<td width="40%" align="center" valign="top">
 
-<img src="assets/final.jpg" width="340" style="border-radius:6px;">
+<img src="assets/final.jpg" width="340">
 
 </td>
 
