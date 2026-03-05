@@ -37,7 +37,7 @@ Building intelligent systems, secure applications, and scalable backend architec
 
 <td width="40%" align="center" valign="top">
 
-<img src="/home/sriram-nitheesh/Downloads/final.jpg" width="300">
+<img src="assets/final.jpg" width="320">
 
 </td>
 
