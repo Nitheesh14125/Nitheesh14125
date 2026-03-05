@@ -8,14 +8,14 @@
 Building intelligent systems, secure applications, and scalable backend architectures.
 </p>
 
----
+<hr>
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="60%">
+<td width="60%" valign="top">
 
 🎓 <b>BTech CSE (Cyber Security)</b> student at Sri Venkateswara College of Engineering  
 
@@ -35,9 +35,9 @@ Building intelligent systems, secure applications, and scalable backend architec
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="/home/sriram-nitheesh/Downloads/final.jpg" width="300">
 
 </td>
 
