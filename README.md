@@ -74,21 +74,6 @@ Building intelligent systems, secure applications, and scalable backend architec
 <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitheesh14125&theme=tokyonight" />
 <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nitheesh14125&theme=tokyonight" />
 </p>
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Nitheesh14125/DSA_PREP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitheesh14125&repo=DSA_PREP&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Nitheesh14125/System_Design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitheesh14125&repo=System_Design&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Nitheesh14125/FAST-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitheesh14125&repo=FAST-API&theme=tokyonight&hide_border=true"/>
-</a>
 
 <a href="https://github.com/Nitheesh14125/AI-Engineering">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitheesh14125&repo=AI-Engineering&theme=tokyonight&hide_border=true"/>
