@@ -62,3 +62,9 @@ Building intelligent systems, secure applications, and scalable backend architec
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitheesh14125&theme=tokyonight&hide_border=true" />
 </p>
+## 📊 GitHub Activity Overview
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitheesh14125&theme=github_dark" />
+</p>
+
