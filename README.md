@@ -42,7 +42,7 @@ Building intelligent systems, secure applications, and scalable backend architec
 <td width="40%" align="center" valign="top">
 <br>
 <br>
-<img src="assets/final.jpg" width="340">
+<img src="assets/final.jpg" width="300">
 
 </td>
 
