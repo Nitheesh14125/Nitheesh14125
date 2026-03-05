@@ -40,6 +40,7 @@ Building intelligent systems, secure applications, and scalable backend architec
 </td>
 
 <td width="40%" align="center" valign="top" style="border:none;">
+<br>
 
 <img src="assets/final.jpg" width="340" style="border-radius:6px;">
 
