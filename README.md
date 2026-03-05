@@ -55,3 +55,12 @@ Building intelligent systems, secure applications, and scalable backend architec
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="48"/>
 
 </p>
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nitheesh14125&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh14125&layout=compact&theme=tokyonight"/>
+
+</p>
