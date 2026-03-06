@@ -27,7 +27,7 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 <h2 align="center">🚀 Core Technologies</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,js,html,css,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,js,html,mysql,github,vscode,Ubuntu,sqlalchemy"/>
 </p>
 
 ---
@@ -78,14 +78,7 @@ AI Systems • LLM Applications • Backend APIs • System Design • Cybersecu
 
 </tr>
 </table>
-<h2>🛠 Tech Stack</h2>
-<p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,fastapi,mysql,ubuntu,github,vscode" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="48"/>
-
-</p>
 
 ## 📊 GitHub Stats
 
