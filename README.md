@@ -10,6 +10,19 @@ Building intelligent systems, secure applications, and scalable backend architec
 
 <hr>
 
+<h2>📄 Resume</h2>
+
+<p>
+You can view or download my latest resume below:
+</p>
+
+<p>
+<a href="./Nitheesh_Sriram_AI_Backend_Engineer_Resume.pdf" target="_blank">
+📥 Download Resume
+</a>
+</p>
+
+<hr>
 <h2>👨‍💻 About Me</h2>
 
 <table border="0">
