@@ -1,27 +1,44 @@
 <h1 align="center">Hi 👋, I'm Sriram Nitheesh</h1>
 
-<p align="center">
-<b>Aspiring AI Engineer | Cybersecurity Student | Backend Developer</b>
-</p>
+<h3 align="center">
+AI Engineer • Backend Developer • Cybersecurity Student
+</h3>
 
 <p align="center">
-Building intelligent systems, secure applications, and scalable backend architectures.
+Building intelligent systems, scalable backend architectures, and AI-powered applications.
 </p>
 
-<hr>
-
-<h2>📄 Resume</h2>
-
-<p>
-You can view or download my latest resume below:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nitheesh14125&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<p>
-<a href="./Nitheesh_Sriram_AI_Backend_Engineer_Resume.pdf" target="_blank">
-📥 Download Resume
+---
+
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+<a href="./Nitheesh_Sriram_AI_Backend_Engineer_Resume.pdf">
+<img src="https://img.shields.io/badge/Download%20Resume-AI%20Engineer-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 </p>
 
+---
+
+<h2 align="center">🚀 Core Technologies</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,js,html,css,mysql,git,github,vscode,linux"/>
+</p>
+
+---
+
+<h2 align="center">🧠 Focus Areas</h2>
+
+<p align="center">
+AI Systems • LLM Applications • Backend APIs • System Design • Cybersecurity
+</p>
+
+---
 <hr>
 <h2>👨‍💻 About Me</h2>
 
