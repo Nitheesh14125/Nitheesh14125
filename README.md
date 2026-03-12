@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sriram+Nitheesh;AI+Engineer+%7C+Backend+Developer;Building+AI+Systems+and+Scalable+Backend+Architectures"/>
 </p>
@@ -16,20 +17,20 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 <img src="https://komarev.com/ghpvc/?username=Nitheesh14125&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<p align="center">
+<!-- CONTACT BADGES SINGLE LINE -->
 
+<p align="center">
 <a href="https://github.com/Nitheesh14125">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://linkedin.com/in/sriram-nitheesh">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:s.nitheesh14125@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 </p>
 
 ---
@@ -67,7 +68,7 @@ Distributed Systems • Advanced Backend Architecture • AI Engineering • Sys
 </p>
 
 ---
-
+---
 
 <hr>
 
@@ -110,7 +111,7 @@ Distributed Systems • Advanced Backend Architecture • AI Engineering • Sys
 </table>
 
 ---
-
+---
 
 ## 📊 GitHub Stats
 
