@@ -104,6 +104,9 @@ Distributed Systems • Advanced Backend Architecture • AI Engineering • Sys
 <td width="40%" align="center" valign="top">
 <br>
 <br>
+<br>
+
+
 <img src="assets/final.jpg" width="300">
 </td>
 
