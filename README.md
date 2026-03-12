@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sriram+Nitheesh;AI+Engineer+%7C+Backend+Developer;Building+AI+Systems+and+Scalable+Backend+Architectures"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sriram Nitheesh</h1>
 
 <h3 align="center">
@@ -10,6 +14,22 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Nitheesh14125&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Nitheesh14125">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -27,7 +47,7 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 <h2 align="center">🚀 Core Technologies</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,js,html,mysql,github,vscode,Ubuntu,sqlalchemy"/>
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,js,html,mysql,github,vscode,ubuntu,sqlalchemy"/>
 </p>
 
 ---
@@ -39,7 +59,38 @@ AI Systems • LLM Applications • Backend APIs • System Design • Cybersecu
 </p>
 
 ---
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+Distributed Systems • Advanced Backend Architecture • AI Engineering • System Design
+</p>
+
+---
+
+<h2 align="center">🔥 Featured Projects</h2>
+
+<p align="center">
+
+🚀 <b>AI Resume Analyzer</b>  
+AI-powered system that analyzes resumes, extracts skills, evaluates ATS compatibility, and provides improvement suggestions.
+
+<br><br>
+
+⚡ <b>Disaster Prediction Management System</b>  
+Machine learning-based prediction platform for earthquakes, floods, and cyclones built using Flask, Python, and real-time data analysis.
+
+<br><br>
+
+🛡 <b>Security Intelligence Platform</b>  
+Backend architecture exploring defensive cybersecurity strategies and threat detection systems.
+
+</p>
+
+---
+
 <hr>
+
 <h2>👨‍💻 About Me</h2>
 
 <table border="0">
@@ -73,12 +124,20 @@ AI Systems • LLM Applications • Backend APIs • System Design • Cybersecu
 <br>
 <br>
 <img src="assets/final.jpg" width="300">
-
 </td>
 
 </tr>
 </table>
 
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nitheesh14125&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -86,11 +145,15 @@ AI Systems • LLM Applications • Backend APIs • System Design • Cybersecu
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitheesh14125&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 ## 📈 GitHub Activity Overview
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitheesh14125&theme=tokyonight" />
 </p>
+
+---
 
 ## 🧠 Language Usage
 
@@ -99,10 +162,16 @@ AI Systems • LLM Applications • Backend APIs • System Design • Cybersecu
 <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nitheesh14125&theme=tokyonight" />
 </p>
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nitheesh14125/Nitheesh14125/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
+<p align="center">
+<b>"Building intelligent, secure, and scalable systems."</b>
+</p>
