@@ -22,7 +22,7 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/">
+<a href="https://linkedin.com/in/sriram-nitheesh">
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
