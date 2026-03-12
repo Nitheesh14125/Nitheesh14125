@@ -68,26 +68,6 @@ Distributed Systems • Advanced Backend Architecture • AI Engineering • Sys
 
 ---
 
-<h2 align="center">🔥 Featured Projects</h2>
-
-<p align="center">
-
-🚀 <b>AI Resume Analyzer</b>  
-AI-powered system that analyzes resumes, extracts skills, evaluates ATS compatibility, and provides improvement suggestions.
-
-<br><br>
-
-⚡ <b>Disaster Prediction Management System</b>  
-Machine learning-based prediction platform for earthquakes, floods, and cyclones built using Flask, Python, and real-time data analysis.
-
-<br><br>
-
-🛡 <b>Security Intelligence Platform</b>  
-Backend architecture exploring defensive cybersecurity strategies and threat detection systems.
-
-</p>
-
----
 
 <hr>
 
