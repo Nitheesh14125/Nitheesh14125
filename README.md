@@ -22,7 +22,7 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -131,13 +131,6 @@ Backend architecture exploring defensive cybersecurity strategies and threat det
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nitheesh14125&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
