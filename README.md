@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sriram+Nitheesh;AI+Engineer+%7C+Backend+Developer;Building+AI+Systems+and+Scalable+Backend+Architectures"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sriram Nitheesh</h1>
+<h1 align="center">Hi 👋,I'm Sriram Nitheesh</h1>
 
 <h3 align="center">
 AI Engineer • Backend Developer • Cybersecurity Student
