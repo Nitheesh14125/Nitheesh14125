@@ -100,19 +100,19 @@ Solving problems from the <b>NeetCode 150 roadmap</b> to master Data Structures 
 </p>
 
 <p align="center">
-<img src="https://progress-bar.dev/4/?title=Easy&width=150"/>
-<img src="https://progress-bar.dev/1/?title=Medium&width=150&color=yellow"/>
-<img src="https://progress-bar.dev/1/?title=Hard&width=150&color=red"/>
+<img src="https://img.shields.io/badge/NeetCode-150%20Roadmap-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Solved-6%2F150-orange?style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://progress-bar.dev/6/?title=NeetCode%20Solved%20%2F%20150&width=500"/>
+<img src="https://img.shields.io/badge/Easy-4-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-1-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hard-1-red?style=for-the-badge"/>
 </p>
 
 <p align="center">
 🔥 Consistently solving problems daily to maintain a strong DSA streak.
 </p>
-
 ---
 
 <h2 align="center">📈 GitHub Activity Overview</h2>
