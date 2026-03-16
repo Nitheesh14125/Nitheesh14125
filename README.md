@@ -38,31 +38,20 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 <td width="60%" valign="top">
 
 <ul>
-
 <li>🎓 <b>BTech CSE (Cyber Security)</b> student at Sri Venkateswara College of Engineering</li>
-
 <li>🧠 Passionate about <b>AI Engineering, Cybersecurity, and Scalable System Design</b></li>
-
 <li>🛠 Building <b>backend systems and APIs using Python and FastAPI</b></li>
-
 <li>📚 Practicing <b>Data Structures & Algorithms</b> to strengthen problem-solving and algorithmic thinking</li>
-
 <li>🚀 Building projects in <b>AI systems, backend development, and system design</b></li>
-
 <li>🧪 Exploring <b>real-world security problems and defensive security solutions</b></li>
-
 <li>🎯 Achieved a <b>10/10 SGPA</b> and working to maintain consistent academic excellence</li>
-
 <li>🥊 <b>State Champion Boxer (2022)</b></li>
-
 </ul>
 
 </td>
 
 <td width="40%" align="center">
-
 <img src="assets/final.jpg" width="280">
-
 </td>
 
 </tr>
@@ -111,17 +100,13 @@ Solving problems from the <b>NeetCode 150 roadmap</b> to master Data Structures 
 </p>
 
 <p align="center">
+<img src="https://progress-bar.dev/4/?title=Easy&width=150"/>
+<img src="https://progress-bar.dev/1/?title=Medium&width=150&color=yellow"/>
+<img src="https://progress-bar.dev/1/?title=Hard&width=150&color=red"/>
+</p>
 
-<img src="https://img.shields.io/badge/NeetCode-150%20Roadmap-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problems%20Solved-6%2F150-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Easy-4-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Medium-1-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hard-1-red?style=for-the-badge"/>
-
+<p align="center">
+<img src="https://progress-bar.dev/6/?title=NeetCode%20Solved%20%2F%20150&width=500"/>
 </p>
 
 <p align="center">
