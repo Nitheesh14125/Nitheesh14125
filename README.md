@@ -17,7 +17,6 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 <img src="https://komarev.com/ghpvc/?username=Nitheesh14125&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<!-- CONTACT BADGES SINGLE LINE -->
 
 <p align="center">
 <a href="https://github.com/Nitheesh14125">
@@ -33,22 +32,6 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 </a>
 </p>
 
----
-
-
-
----
-
-
----
-
-<h2 align="center">🧠 Focus Areas</h2>
-
-<p align="center">
-AI Systems • LLM Applications • Backend APIs • System Design • Cybersecurity
-</p>
-
----
 <h2>👨‍💻 About Me</h2>
 
 <table border="0">
