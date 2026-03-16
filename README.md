@@ -113,7 +113,6 @@ Solving problems from the <b>NeetCode 150 roadmap</b> to master Data Structures 
 <p align="center">
 🔥 Consistently solving problems daily to maintain a strong DSA streak.
 </p>
----
 
 <h2 align="center">📈 GitHub Activity Overview</h2>
 
