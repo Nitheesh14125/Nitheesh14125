@@ -35,21 +35,10 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 
 ---
 
-<h2 align="center">📄 Resume</h2>
 
-<p align="center">
-<a href="./Nitheesh_Sriram_AI_Backend_Engineer_Resume.pdf">
-<img src="https://img.shields.io/badge/Download%20Resume-AI%20Engineer-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-</p>
 
 ---
 
-<h2 align="center">🚀 Core Technologies</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,js,html,mysql,github,vscode,ubuntu,sqlalchemy"/>
-</p>
 
 ---
 
@@ -103,6 +92,20 @@ AI Systems • LLM Applications • Backend APIs • System Design • Cybersecu
 
 ---
 ---
+
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+<a href="./Nitheesh_Sriram_AI_Backend_Engineer_Resume.pdf">
+<img src="https://img.shields.io/badge/Download%20Resume-AI%20Engineer-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+</p>
+<h2 align="center">🚀 Core Technologies</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,js,html,mysql,github,vscode,ubuntu,sqlalchemy"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
