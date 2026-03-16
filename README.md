@@ -60,18 +60,6 @@ AI Systems • LLM Applications • Backend APIs • System Design • Cybersecu
 </p>
 
 ---
-
-<h2 align="center">📚 Currently Learning</h2>
-
-<p align="center">
-Distributed Systems • Advanced Backend Architecture • AI Engineering • System Design
-</p>
-
----
----
-
-<hr>
-
 <h2>👨‍💻 About Me</h2>
 
 <table border="0">
