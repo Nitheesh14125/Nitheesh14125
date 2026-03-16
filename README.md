@@ -104,6 +104,20 @@ AI Systems • LLM Applications • Backend APIs • System Design • Cybersecu
 
 ---
 
+<h2 align="center">🧠 Coding Practice</h2>
+
+<p align="center">
+Practicing Data Structures & Algorithms daily using the NeetCode roadmap and solving algorithmic problems consistently.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NeetCode-Roadmap-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/DSA-Streak-green?style=for-the-badge"/>
+</p>
+
+---
+
 <h2 align="center">📈 GitHub Activity Overview</h2>
 
 <p align="center">
