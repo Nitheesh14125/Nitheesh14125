@@ -139,6 +139,4 @@ Solving problems from the <b>NeetCode 150 roadmap</b> to master Data Structures 
 
 ---
 
-<p align="center">
-<b>"Building intelligent, secure, and scalable systems."</b>
-</p>
+
