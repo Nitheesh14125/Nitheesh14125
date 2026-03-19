@@ -62,7 +62,7 @@ Building intelligent systems, scalable backend architectures, and AI-powered app
 <h2 align="center">🧠 Focus Areas</h2>
 
 <p align="center">
-AI Systems • LLM Applications • Backend APIs • System Design • Cybersecurity
+AI Systems • LLM Applications • Backend APIs • System Design 
 </p>
 
 ---
